@@ -1,0 +1,7 @@
+python
+ipykernel
+transformers
+numpy
+scikit-learn
+sentencepiece
+protobuf
