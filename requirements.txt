@@ -2,6 +2,9 @@ python
 ipykernel
 transformers
 numpy
+pytorch
+torchvision
+cudatoolkit
 scikit-learn
 sentencepiece
 protobuf
